@@ -118,10 +118,10 @@ h1 {
 .menu {
   border-radius: 15px;
   display: none;
-  position: absolute; /* Change position to absolute */
-  top: 100%; /* Position it below the nav bar */
-  left: 50%; /* Move it to the horizontal center */
-  transform: translateX(-50%); /* Center it horizontally */
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  transform: translateX(-47%);
   width: 400px;
   background-color: #f9f9f9;
 }
